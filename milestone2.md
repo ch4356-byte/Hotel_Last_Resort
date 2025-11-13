@@ -18,26 +18,22 @@ The purpose of this site is to display key business information in an interactiv
 
 Below is the general layout and structure of our web page. This format shows how we plan to organize the main sections visually:
 
-+-------------------------------------------------------------+
 | Header (Logo + Nav) |
-+-------------------------------------------------------------+
-| Executive Dashboard |
-+-------------------------------------------------------------+
-| Analytics Section |
-+-------------------------------------------------------------+
-| Revenue Section |
-+-------------------------------------------------------------+
-| Customers Section |
-+-------------------------------------------------------------+
-| Events Section |
-+-------------------------------------------------------------+
-| Operations Section |
-+-------------------------------------------------------------+
-| Footer (Contact Info, Links) |
-+-------------------------------------------------------------+
 
-yaml
-Copy code
+| Executive Dashboard |
+
+| Analytics Section |
+
+| Revenue Section |
+
+| Customers Section |
+
+| Events Section |
+
+| Operations Section |
+
+| Footer (Contact Info, Links) |
+
 
 ---
 
