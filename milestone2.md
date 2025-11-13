@@ -16,7 +16,7 @@ The purpose of this site is to display key business information in an interactiv
 
 ## 2. Planned Web Page Design Format
 
-Below is the general layout and structure of our web page. This format shows how we plan to organize the main sections visually:
+Below is the general layout and structure of our web page. This format shows how we plan to organize the main sections:
 
 | Header (Logo + Nav) |
 
